@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-Run `npm run server` for the mock backend data. Navigate to `http://localhost:4200/` see the DB connection
+Run `npm run server` for the mock backend data. Navigate to `http://localhost:5000/` see the DB connection
 
 ## Code scaffolding
 
